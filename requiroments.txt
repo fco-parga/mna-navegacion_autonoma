@@ -1,0 +1,11 @@
+#Baseline
+tqdm==4.65.0
+scikit-learn==1.2.2
+seaborn==0.12.2
+pandas==2.0.1
+matplotlib==3.7.1
+numpy==1.24.3
+Pillow==9.5.0
+opencv-python-headless
+fpdf
+scipy>=1.4.1
