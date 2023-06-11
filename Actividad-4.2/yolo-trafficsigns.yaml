@@ -1,0 +1,6 @@
+path: "C:/Users/fgarcia24/OneDrive - Schlumberger/Python/fco-parga/mna/mna-navegacion_autonoma/Actividad-4.2/"
+train: "data/YOLO_data/images/train"
+val: "data/YOLO_data/images/test"
+
+names:
+  0: trafficsign
